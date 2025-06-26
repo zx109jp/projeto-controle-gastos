@@ -1,8 +1,13 @@
-# Projeto - Controle de Gastos pessoais
+# Projeto - Página de Login 
 
-*Descrição* - Projeto para criação de aplicação de controle de gastos pessoais, utilizando tecnologias mobile.
+*Descrição* - Projeto para criação de uma pagina de login.
 
 ## Índice
 
 ## Tecnologias
+ 
+ * HTML5
+ * CSS3
+
+## Autoria 
 
